@@ -1,0 +1,26 @@
+.rooms-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.room-item {
+  max-width: 30%;
+}
+
+.room-img {
+  margin-bottom: 30px;
+}
+
+.room-title {
+  font-family: "Playfair Display", times, serif;
+  font-size: 32px;
+  color: #000;
+  line-height: 1;
+  margin: 0 0 10px;
+}
+
+.room-price {
+  color: #ffba5a;
+  text-transform: uppercase;
+  margin: 0;
+}

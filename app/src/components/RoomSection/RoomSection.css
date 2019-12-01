@@ -1,0 +1,10 @@
+.room-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.room-section-headline {
+  max-width: 630px;
+  margin: 0 auto 60px;
+}
